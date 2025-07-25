@@ -1,0 +1,157 @@
+.colour{
+    border: solid blue 1px;
+    height: 60px;
+}
+#colour{
+    border: solid red 2px;
+}
+.main{
+    border: solid black 2px;
+    height: 100vh; ;
+    display: flex;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+.second{
+    border: solid red 1px;
+    height: 100vh;
+    width: 20%;
+}
+.third{
+    border:solid green 1px;
+    height: 100vh;
+    width: 65%;
+    margin-left: 5%;
+}
+.header1{
+    border: solid blue 2px;
+    height: 5vh;
+
+}
+.yaw{
+    font-size: 14px;
+    font-weight: 500px ;
+    color: rgb(79, 78, 78) ;
+    padding-left: 15px;
+    letter-spacing: 0.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.yaw1{
+    display: flex;
+    padding-left: 2% ;
+    padding-top: 5%;
+    column-gap: 15px;
+}
+.step-menu{
+    /* border: solid red 2px; */
+    height: 70vh;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 300px;
+    margin: 20px;
+}
+.step{
+    border: 2px solid #357568;
+    /* border-left: 4px solid transparent; */
+    padding: 12px 16px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 15px;
+    font-weight:  500;
+    color:#333;
+    transition: all 0.3s ease;
+    /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05); */
+}
+.step span{
+    display: block;
+    font-size: 13px;
+    color: #555;
+    margin-top: 2px;
+}
+.boakye2{
+    border: solid black 2px;
+    height: 50vh;
+    width: 85%;  
+}
+.yaw2{
+    border: solid black 2px;
+    height: 7vh;
+    width: 100%;    
+} 
+.yaw3{
+    font-size: x-large;
+    font-weight: bold;
+}
+.src{
+    image-resolution: 10px;
+}
+.quickaccess h2{
+ font-size: 18px;
+ color: rgb(112, 110, 110);
+ margin-bottom: 20px;
+ border-bottom: 1px solid #eee;
+ padding-bottom: 10px;
+}
+.menu li{
+    margin-bottom: 30px;
+    color: #807d7d;
+    font-size: medium;
+    font-style: inherit;
+}
+.user-email{
+    font-size: 18px;   
+}
+.profile{
+    background: linear-gradient(green, lightgreen);
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+.profile button{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+.mensah{
+    border: solid black;
+    width: 85%;
+    height: 10vh;  
+}
+#icon{
+    color: green;
+}
+.dashboard{
+    display: flex;
+    border: solid red 2px;
+    margin-right: 20px;
+    
+}
+.dashboard2{
+     margin-left: 10px;     
+}
+.application-form{
+    border: solid red 2px;
+    display: flex;
+    margin-right: 20px
+}
+.application-forms2{
+    margin-left: 10px;
+}
+.FAQ{
+    border: solid red 2px;
+    display: flex;
+    margin-right: 20px;
+}
+.FAQ2{
+    margin-left: 12px;
+}
+.help{
+    border: solid red 2px;
+    display: flex;
+}
